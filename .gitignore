@@ -73,3 +73,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Assets
+Content/Characters
+Content/EndlessRunnerShooterTemplate
+Content/Low_Poly_Sci-Fi_Corridor
+Content/MixedVFX
+Content/SciFi_Beasts_Pack
+Content/SciFi_Dog
+Content/StarterContent
+Content/Magic_Projectiles
+Content/LevelPrototyping
